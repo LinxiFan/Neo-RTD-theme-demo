@@ -1,5 +1,7 @@
 # Neo-RTD-theme for Sphinx
 
+Online demo [here](https://linxifan.github.io/Neo-RTD-theme). 
+
 Please refer to [LinxiFan/Sphinx-theme](https://github.com/LinxiFan/Sphinx-theme) for more information. 
 
 ```bash
