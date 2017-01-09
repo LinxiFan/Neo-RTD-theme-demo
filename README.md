@@ -1,6 +1,6 @@
 # Neo-RTD-theme for Sphinx
 
-Online demo [here](https://linxifan.github.io/Neo-RTD-theme). 
+Online demo [here](https://linxifan.github.io/Neo-RTD-theme-demo). 
 
 Please refer to [LinxiFan/Sphinx-theme](https://github.com/LinxiFan/Sphinx-theme) for more information. 
 
